@@ -9,5 +9,8 @@
   "homepage": "https://thomasmartin86/github.io/text-to-speak",
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
 }
