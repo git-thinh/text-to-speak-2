@@ -6,6 +6,7 @@
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
+  "homepage": "https://thomasmartin86/github.io/text-to-speak",
   "keywords": [],
   "author": "",
   "license": "ISC"
